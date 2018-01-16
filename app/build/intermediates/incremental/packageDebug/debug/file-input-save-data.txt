@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jan 15 22:40:26 EAT 2018
+0.baseType=DIRECTORY
+0.base=/home/jamal/firebase/firebase/201Snack/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

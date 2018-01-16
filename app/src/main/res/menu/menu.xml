@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="SimpleSnack"
+        android:orderInCategory="100"
+        android:id="@+id/simplesnack"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="Customsnack"
+        android:orderInCategory="100"
+        android:id="@+id/customsnack"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="Optionssnack"
+        android:orderInCategory="100"
+        android:id="@+id/optionssnack"
+        app:showAsAction="never"
+        />
+</menu>
